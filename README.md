@@ -1,5 +1,5 @@
 Tech Geek, proficient in C++ , Java 
-learning Web Dev & DSA , Coding Enthusiast.
+learning WebDev &(DSA).
 
 <!---
 Umeshhsharma07/Umeshhsharma07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
