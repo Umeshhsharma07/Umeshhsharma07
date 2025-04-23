@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Umeshhsharma07
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning C++
--    looking for internship opportunities 
-  
+Tech Geek, proficient in C++ , Java 
+learning Web Dev & DSA , Coding Enthusiast.
 
 <!---
 Umeshhsharma07/Umeshhsharma07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
